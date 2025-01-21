@@ -69,7 +69,16 @@ async def start(client, message):
                 InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
             ],[
                 1InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                1InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
+                1InlineKeyboardButton('⍟ Disclaimer', This Bot does not host, share, or distribute any copyrighted movie files. All users are strictly prohibited from sharing or requesting copyrighted content through this bot.
+
+Users are responsible for ensuring that any content they share is legally obtained and does not infringe on any copyright laws. Unauthorized sharing or distribution of copyrighted material is illegal and can result in legal consequences.
+
+By using this bot, you agree to comply with all applicable copyright laws and regulations. Any content shared through this bot must be either:
+
+✦ In the public domain or
+✦ Licensed under Creative Commons
+
+If you become aware of any copyright infringement taking place within this bot, please report it immediately to MY ADMIN='about')
             ],[
                 InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
             ]]
