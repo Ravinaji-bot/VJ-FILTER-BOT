@@ -18,11 +18,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ :   <a href={}>ᴏᴡɴᴇʀ</a> 
-‣ ʟɪʙʀᴀʀʏ :     <a >Dragon</a> 
-‣ ʟᴀɴɢᴜᴀɢᴇ :    <a >Dragon LG</a> 
-‣ ᴅᴀᴛᴀ ʙᴀsᴇ :   <a >Dragon Db</a> 
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ :  <a >Dragon Ser</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ :  <a href={}>ᴏᴡɴᴇʀ</a> 
+‣ ʟɪʙʀᴀʀʏ :    <a >Dragon</a> 
+‣ ʟᴀɴɢᴜᴀɢᴇ :   <a >Dragon LG</a> 
+‣ ᴅᴀᴛᴀ ʙᴀsᴇ :  <a >Dragon Db</a> 
+‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a >Dragon Ser</a> 
 ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : [Dragon Fire]</b>"""
 
     CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
