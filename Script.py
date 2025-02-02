@@ -18,11 +18,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
-‣ ʟɪʙʀᴀʀʏ : <a >Dragon</a> 
-‣ ʟᴀɴɢᴜᴀɢᴇ : <a >Dragon LG</a> 
-‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a >Dragon Db</a> 
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a >Dragon Ser</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ :   <a href={}>ᴏᴡɴᴇʀ</a> 
+‣ ʟɪʙʀᴀʀʏ :     <a >Dragon</a> 
+‣ ʟᴀɴɢᴜᴀɢᴇ :    <a >Dragon LG</a> 
+‣ ᴅᴀᴛᴀ ʙᴀsᴇ :   <a >Dragon Db</a> 
+‣ ʙᴏᴛ sᴇʀᴠᴇʀ :  <a >Dragon Ser</a> 
 ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : [Dragon Fire]</b>"""
 
     CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
@@ -204,11 +204,11 @@ Nᴀᴍᴇ - {}"""
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+ᴇxᴀᴍᴘʟᴇ : Marco or Marco 2024 or Marco Hindi
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
+ᴇxᴀᴍᴘʟᴇ : Farzi S01 or Farzi S01 Complete or Lucifer S01
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://telegram.me/Requiest_your_faw">{file_caption}</a></b>
+    CAPTION = """<b><a href="https://telegram.me/Requiest_your_faw">{file_name}</a></b>
 
 <b> Size ⚙️: {file_size}</b>""" 
 
